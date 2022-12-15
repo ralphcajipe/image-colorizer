@@ -12,7 +12,7 @@
   <p align="center">
     A CS50P Final Project
     <br />
-    <a href="https://github.com/ralphcajipe/image-clorizer">View Demo</a>
+    <a href="https://youtu.be/AEMa_eepE4U">View Demo</a>
   </p>
 </div>
 
