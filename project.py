@@ -1,9 +1,8 @@
 """
-Image Colorizer: Back to Life
+CS50P Final Project
 
+Image Colorizer: Back to Life
 By Ralph Cajipe
-CS50's Introduction to Programming with Python
-Final Project
 2022
 """
 
